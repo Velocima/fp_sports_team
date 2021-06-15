@@ -3,6 +3,11 @@ body {
 	background: linear-gradient(-45deg, #012169, #f7f7f7 50%, #d51c24);
 }
 
+h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
 #intro {
     padding: 50px;
 }
@@ -17,6 +22,6 @@ td {
 }
 
 td img {
-    width: 100%;
+    width: 400px;
     padding: 20px;
 }
