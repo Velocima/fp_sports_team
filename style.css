@@ -10,6 +10,16 @@ h2 {
 	font-family: 'Permanent Marker', cursive;
 }
 
+h1 {
+	font-size: 80px;
+	text-align: center;
+}
+img[alt='go sports'] {
+	max-width: 300px;
+	position: fixed;
+	top: 20px;
+	right: 20px;
+}
 h2 {
 	text-align: center;
 	font-size: 36px;
