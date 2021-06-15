@@ -1,27 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 body {
 	min-height: 100vh;
 	background: linear-gradient(-45deg, #012169, #f7f7f7 50%, #d51c24);
 }
 
+h1,
 h2 {
-    text-align: center;
-    font-size: 36px;
+	font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+	text-align: center;
+	font-size: 36px;
 }
 
 #intro {
-    padding: 50px;
+	padding: 50px;
 }
 
 table {
-    width: 80%;
+	width: 80%;
 }
 
 td {
-    font-size: 24px;
-    text-align: center;
+	font-size: 24px;
+	text-align: center;
 }
 
 td img {
-    width: 400px;
-    padding: 20px;
+	width: 400px;
+	padding: 20px;
 }
